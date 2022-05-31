@@ -1,1 +1,1 @@
-# rsschool-cv
+https://novidin.github.io/rsschool-cv/cv
