@@ -1,4 +1,5 @@
 # DZMITRY NOVIKAU
+![Avatar](./avatar.png "Avatar")
 ---
 ##  Contacts:
 - ***Location:*** Minsk, Belarus
@@ -23,7 +24,12 @@ System Administrator with more then 10 years experience in information technolog
 - Gulp
 - Adobe Photoshop
 
-
+## Code example:
+```JavaScript
+function numberToString(num) {
+  return num.toString()
+}  
+```
 
 ## Work experience:
 - **2019 - present** Freelance. System administrator. Windows Server(Hyper-V, AD, DNS, DHCP, GPO, Kerio, MDaemon, RDP, 1C 7.7, 1C 8), Linux Debian/Ubuntu, CentOS (Proxmox, Samba, Asterisk/FreePBX. Apache, MySQL), Mikrotik, QNAP. Administration and maintenance websites(HTML, CSS, JS,Bootstrap, Wordpress, Drupal, Joomla, ModX)
