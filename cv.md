@@ -1,5 +1,5 @@
 # DZMITRY NOVIKAU
-![Avatar](./avatar.png "Avatar")
+![Avatar](./assets/img/avatar.png "Avatar")
 ---
 ##  Contacts:
 - ***Location:*** Minsk, Belarus
@@ -40,7 +40,7 @@ function numberToString(num) {
 ## Education:
 **University:** Belarusian State University of Informatics and Radioelectronics, Information Technologies and Control in Engineering Systems
 **Courses:** IT-Academy
-![Certificate IT-Academy](./IT-Academy_Cert.jpg "Certificate IT-Academy")
+![Certificate IT-Academy](./assets/img/IT-Academy_Cert.jpg "Certificate IT-Academy")
 
 ## Language:
 English - A2
